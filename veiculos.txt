@@ -1,0 +1,20 @@
+Audi a3
+1998
+Branco
+13000.0
+Civic
+1999
+Vermelho
+20000.0
+Palio
+2016
+Preto
+40000.0
+Uno
+1997
+Azul
+10000.0
+Subaru
+2000
+Preto
+200000.0
